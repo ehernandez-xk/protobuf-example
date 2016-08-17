@@ -3,7 +3,7 @@
 
 ## Practical Golang: Using Protobuffs
 
-In this example I will use Marshal and Unmarshal using protobuf instead of json.
+In this example I use Marshal and Unmarshal using protobuf instead of json.
 
 ## generate pb.go 
 
