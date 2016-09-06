@@ -28,6 +28,6 @@ func main() {
 			fmt.Println(mail.RemoteEmail, ":", mail.Body)
 		}
 	})
-
+	fmt.Println("Listen on port :3000")
 	http.ListenAndServe(":3000", nil)
 }
